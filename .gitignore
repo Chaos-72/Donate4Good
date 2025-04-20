@@ -1,0 +1,46 @@
+# =====================
+# Frontend Ignored Files
+# =====================
+
+# dependencies
+/frontend/node_modules
+/frontend/.pnp
+/frontend/pnp.js
+
+# testing
+/frontend/coverage
+
+# production
+/frontend/build
+
+# misc
+/frontend/.DS_Store
+/frontend/.env.local
+/frontend/.env.development.local
+/frontend/.env.test.local
+/frontend/.env.production.local
+
+/frontend/npm-debug.log*
+/frontend/yarn-debug.log*
+/frontend/yarn-error.log*
+
+# =====================
+# Backend Ignored Files
+# =====================
+
+# dependencies
+/backend/node_modules
+
+# environment variables
+/backend/.env
+
+# logs
+/backend/npm-debug.log*
+/backend/yarn-debug.log*
+/backend/yarn-error.log*
+
+# coverage
+/backend/coverage
+
+# misc
+/backend/.DS_Store
